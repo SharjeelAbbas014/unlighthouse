@@ -25,11 +25,6 @@ jobs:
 
       - name: Run Lighthouse CI
         run: npx unlighthouse-ci
-      - name: copy content
-        run: cp -r .unlighthouse/ .
-
-      - name: remove original
-        run: rm -rf .unlighthouse
 
       - name: push code
         run: |
