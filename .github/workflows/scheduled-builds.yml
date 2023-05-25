@@ -2,7 +2,7 @@ name: Trigger Site Rebuild on a CRON Schedule
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/10 * * * *"
 
 jobs:
   unlighthouse:
@@ -30,5 +30,6 @@ jobs:
         run: |
           git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
           git config --global user.email "sharjeelabbas014@gmail.com"
+          git add .
           git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
           git push
