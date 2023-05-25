@@ -6,6 +6,7 @@ export default defineConfig({
     maxRoutes: 20000,
     ignoreI18nPages: false,
     skipJavascript: false,
+    sitemap: ['sitemaps/general/sitemap.xml']
   },
   ci:{
     buildStatic: true,
