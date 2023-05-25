@@ -1,0 +1,270 @@
+[
+  {
+    "path": "/",
+    "score": 0.94
+  },
+  {
+    "path": "/affiliate",
+    "score": 0.96
+  },
+  {
+    "path": "/answers",
+    "score": 0.96
+  },
+  {
+    "path": "/answers/calling-cloud-functions-from-other-functions",
+    "score": 0.97
+  },
+  {
+    "path": "/answers/cold-wallet-vs-hot-wallet",
+    "score": 0.95
+  },
+  {
+    "path": "/answers/examples-of-data-modeling-in-mongodb",
+    "score": 0.97
+  },
+  {
+    "path": "/answers/how-are-cmd-and-entrypoint-different-in-a-dockerfile",
+    "score": 0.96
+  },
+  {
+    "path": "/answers/how-to-concatenate-two-integers-in-haskell",
+    "score": 0.98
+  },
+  {
+    "path": "/assessments",
+    "score": 0.91
+  },
+  {
+    "path": "/blog",
+    "score": 0.99
+  },
+  {
+    "path": "/blog/api-design-vs-system-design-interview",
+    "score": 0.99
+  },
+  {
+    "path": "/blog/audio-signal-processing-how-machines-understand-audio-signals",
+    "score": 0.96
+  },
+  {
+    "path": "/blog/educative-answers-google-developer-group",
+    "score": 0.97
+  },
+  {
+    "path": "/blog/importance-of-testing-in-software-development",
+    "score": 0.93
+  },
+  {
+    "path": "/blog/linear-programming",
+    "score": 0.94
+  },
+  {
+    "path": "/careers",
+    "score": 0.97
+  },
+  {
+    "path": "/collection/page/6630002/170001/180001",
+    "score": 0.92
+  },
+  {
+    "path": "/contactUs",
+    "score": 0.99
+  },
+  {
+    "path": "/cookie-policy",
+    "score": 0.98
+  },
+  {
+    "path": "/courses/educative-faq",
+    "score": 0.94
+  },
+  {
+    "path": "/courses/learn-rust-from-scratch",
+    "score": 0.92
+  },
+  {
+    "path": "/courses/learn-rust-from-scratch/39BkKVYEnq9",
+    "score": 0.92
+  },
+  {
+    "path": "/courses/learn-rust-from-scratch/39ErMZ60rGM",
+    "score": 0.94
+  },
+  {
+    "path": "/courses/learn-rust-from-scratch/3Y2GP2yB0OR",
+    "score": 0.9
+  },
+  {
+    "path": "/courses/learn-rust-from-scratch/3YgrZLn7q2n",
+    "score": 0.93
+  },
+  {
+    "path": "/courses/learn-rust-from-scratch/3YWzlxNWzRA",
+    "score": 0.91
+  },
+  {
+    "path": "/courses/learn-rust-from-scratch/BnMlJzPBnAJ/assessment",
+    "score": 0.93
+  },
+  {
+    "path": "/courses/python-data-analysis-and-visualization",
+    "score": 0.92
+  },
+  {
+    "path": "/courses/python-data-analysis-and-visualization/39Am0A0On1p",
+    "score": 0.9
+  },
+  {
+    "path": "/courses/python-data-analysis-and-visualization/3jrk2k90O4A",
+    "score": 0.97
+  },
+  {
+    "path": "/courses/python-data-analysis-and-visualization/3Y33vKE4R6M",
+    "score": 0.98
+  },
+  {
+    "path": "/courses/python-data-analysis-and-visualization/3YVA4r19kOR",
+    "score": 0.96
+  },
+  {
+    "path": "/courses/python-data-analysis-and-visualization/7XRWRGrKqZA",
+    "score": 0.93
+  },
+  {
+    "path": "/courses/road-to-react-with-hooks",
+    "score": 0.95
+  },
+  {
+    "path": "/courses/road-to-react-with-hooks/3wN7MxO0DZp",
+    "score": 0.93
+  },
+  {
+    "path": "/courses/road-to-react-with-hooks/3wrJJoD7mvx",
+    "score": 0.93
+  },
+  {
+    "path": "/courses/road-to-react-with-hooks/3YjX2OB7rwO",
+    "score": 0.94
+  },
+  {
+    "path": "/courses/road-to-react-with-hooks/7D1xREvKNl1",
+    "score": 0.95
+  },
+  {
+    "path": "/courses/road-to-react-with-hooks/7Dx5ByPBLq1",
+    "score": 0.95
+  },
+  {
+    "path": "/data-processing-agreement",
+    "score": 1
+  },
+  {
+    "path": "/enterprise-terms",
+    "score": 1
+  },
+  {
+    "path": "/explore",
+    "score": 0.88
+  },
+  {
+    "path": "/explore/early-access",
+    "score": 0.88
+  },
+  {
+    "path": "/github-students",
+    "score": 0.93
+  },
+  {
+    "path": "/m/referral-program",
+    "score": 0.95
+  },
+  {
+    "path": "/module/fundamentals-plotting-matplotlib",
+    "score": 0.97
+  },
+  {
+    "path": "/module/integrating-firebase-react",
+    "score": 0.97
+  },
+  {
+    "path": "/module/intro-python-data-analysis",
+    "score": 0.96
+  },
+  {
+    "path": "/module/python-arrays",
+    "score": 0.97
+  },
+  {
+    "path": "/module/series-dataframes",
+    "score": 0.96
+  },
+  {
+    "path": "/onboarding",
+    "score": 0.97
+  },
+  {
+    "path": "/path/python-data-analysis",
+    "score": 0.95
+  },
+  {
+    "path": "/path/react-front-end-developer",
+    "score": 0.94
+  },
+  {
+    "path": "/paths",
+    "score": 0.94
+  },
+  {
+    "path": "/press",
+    "score": 0.97
+  },
+  {
+    "path": "/privacy",
+    "score": 1
+  },
+  {
+    "path": "/profile/view/4542962516885504",
+    "score": 0.89
+  },
+  {
+    "path": "/profile/view/4719228051783680",
+    "score": 0.92
+  },
+  {
+    "path": "/profile/view/4724720674275328",
+    "score": 0.9
+  },
+  {
+    "path": "/profile/view/4874545564745728",
+    "score": 0.92
+  },
+  {
+    "path": "/profile/view/5302618157219840",
+    "score": 0.98
+  },
+  {
+    "path": "/projects",
+    "score": 0.96
+  },
+  {
+    "path": "/refer-a-friend",
+    "score": 0.98
+  },
+  {
+    "path": "/team",
+    "score": 0.97
+  },
+  {
+    "path": "/terms",
+    "score": 0.98
+  },
+  {
+    "path": "/trial",
+    "score": 0.89
+  },
+  {
+    "path": "/unlimited",
+    "score": 0.97
+  }
+]
