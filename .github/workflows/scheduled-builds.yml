@@ -26,9 +26,6 @@ jobs:
       - name: Run Lighthouse CI
         run: npx unlighthouse-ci
 
-      - name: Build static site
-        run: cd .unlighthouse
-
       - name: push code
         run: |
           git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
