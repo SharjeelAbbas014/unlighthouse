@@ -7,6 +7,9 @@ jobs:
   unlighthouse:
     name: Run unlighthouse
     runs-on: ubuntu-latest
+    env:
+      CI_COMMIT_MESSAGE: Continuous Integration Build Artifacts
+      CI_COMMIT_AUTHOR: Continuous Integration
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -23,5 +26,11 @@ jobs:
         run: npx unlighthouse-ci
 
       - name: Build static site
-        # Replace this with the command to build your static site using your preferred generator
         run: cd .unlighthouse
+
+      - name: push code
+        run: |
+          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+          git config --global user.email "sharjeelabbas014@gmail.com"
+          git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
+          git push
