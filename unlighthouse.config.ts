@@ -8,5 +8,5 @@ export default defineConfig({
   ci:{
     buildStatic: true,
   },
-  debug: false,
+  debug: true,
 })
