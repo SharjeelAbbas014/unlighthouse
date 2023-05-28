@@ -5,7 +5,7 @@
   },
   {
     "path": "/add-two-integers",
-    "score": 0.89
+    "score": 0.92
   },
   {
     "path": "/affiliate-program-confirmation",
@@ -13,19 +13,19 @@
   },
   {
     "path": "/algorithms-for-coding-interviews",
-    "score": 0.94
+    "score": 0.93
   },
   {
     "path": "/algorithms-interview-refresher",
-    "score": 0.87
+    "score": 0.88
   },
   {
     "path": "/all-possible-braces",
-    "score": 0.9
+    "score": 0.92
   },
   {
     "path": "/answers-badge",
-    "score": 0.64
+    "score": 0.65
   },
   {
     "path": "/api-join-us",
@@ -33,11 +33,11 @@
   },
   {
     "path": "/api-training-teams",
-    "score": 0.92
+    "score": 0.96
   },
   {
     "path": "/author-referral-program",
-    "score": 0.95
+    "score": 0.96
   },
   {
     "path": "/authors",
@@ -45,91 +45,91 @@
   },
   {
     "path": "/become-a-machine-learning-engineer",
-    "score": 0.83
+    "score": 0.84
   },
   {
     "path": "/become-an-educative-author",
-    "score": 0.91
-  },
-  {
-    "path": "/behavioral-interview-course",
     "score": 0.87
   },
   {
-    "path": "/blog/bing-bard-chatgpt-ai-software-developers",
-    "score": 0.92
-  },
-  {
-    "path": "/blog/c-sharp-vs-java",
-    "score": 0.95
-  },
-  {
-    "path": "/blog/enterprise/3-reasons-startups-fail",
-    "score": 0.92
-  },
-  {
-    "path": "/blog/enterprise/best-tool-learning-code-text-video",
-    "score": 0.92
-  },
-  {
-    "path": "/blog/enterprise/case-study-coding-accelerator-codebreakers-educative",
-    "score": 0.93
-  },
-  {
-    "path": "/blog/enterprise/departmental-dilemma",
-    "score": 0.85
-  },
-  {
-    "path": "/blog/enterprise/the-weakest-link",
-    "score": 0.86
-  },
-  {
-    "path": "/blog/how-to-become-a-blockchain-developer-a-complete-guide",
+    "path": "/behavioral-interview-course",
     "score": 0.88
   },
   {
-    "path": "/blog/microservices-interview-questions-and-answers",
+    "path": "/blog/cpp-data-structures-interview-prep",
+    "score": 0.93
+  },
+  {
+    "path": "/blog/enterprise/3-reasons-startups-fail",
     "score": 0.95
   },
   {
-    "path": "/blog/spring-webflux-tutorial",
-    "score": 0.89
-  },
-  {
-    "path": "/boggle",
-    "score": 0.86
-  },
-  {
-    "path": "/call-for-authors",
-    "score": 0.85
-  },
-  {
-    "path": "/careers",
+    "path": "/blog/enterprise/build-post-pandemic-playbook",
     "score": 0.94
   },
   {
-    "path": "/catalog/c++",
+    "path": "/blog/enterprise/guide-to-the-ultimate-candidate-experience",
+    "score": 0.91
+  },
+  {
+    "path": "/blog/enterprise/learning-development-trends",
+    "score": 0.96
+  },
+  {
+    "path": "/blog/enterprise/strategic-metrics-making-a-case-for-your-training-budget",
+    "score": 0.96
+  },
+  {
+    "path": "/blog/graph-algorithms-tutorial",
+    "score": 0.89
+  },
+  {
+    "path": "/blog/intro-to-ruby-tutorial",
+    "score": 0.89
+  },
+  {
+    "path": "/blog/nextjs-tutorial-examples",
+    "score": 0.93
+  },
+  {
+    "path": "/blog/why-and-when-you-should-use-kubernetes",
     "score": 0.92
   },
   {
-    "path": "/catalog/data-science",
-    "score": 0.86
+    "path": "/boggle",
+    "score": 0.87
+  },
+  {
+    "path": "/call-for-authors",
+    "score": 0.91
+  },
+  {
+    "path": "/careers",
+    "score": 0.95
+  },
+  {
+    "path": "/catalog/c++",
+    "score": 0.9
+  },
+  {
+    "path": "/catalog/kubernetes",
+    "score": 0.93
   },
   {
     "path": "/catalog/learn-to-code",
     "score": 0.93
   },
   {
-    "path": "/catalog/vue-js",
-    "score": 0.89
+    "path": "/catalog/nosql",
+    "score": 0.91
   },
   {
-    "path": "/catalog/web-development",
-    "score": 0.85
+    "path": "/catalog/python",
+    "score": 0.92
   },
   {
     "path": "/check-if-two-binary-trees-are-identical",
-    "score": 0.93
+    "score": 0.9
   },
   {
     "path": "/clone-directed-graph",
@@ -137,11 +137,11 @@
   },
   {
     "path": "/closest-meeting-point",
-    "score": 0.91
+    "score": 0.94
   },
   {
     "path": "/coding-interview-patterns",
-    "score": 0.91
+    "score": 0.94
   },
   {
     "path": "/coin-changing-problem",
@@ -149,107 +149,107 @@
   },
   {
     "path": "/collection/10370001/4508159000444928",
-    "score": 0.82
-  },
-  {
-    "path": "/collection/10370001/6588114816466944",
-    "score": 0.81
-  },
-  {
-    "path": "/collection/6630002/5199453776510976",
-    "score": 0.82
-  },
-  {
-    "path": "/collection/6630002/5384652657262592",
-    "score": 0.86
-  },
-  {
-    "path": "/collection/6630002/5506908401696768",
-    "score": 0.95
-  },
-  {
-    "path": "/collection/6630002/5551091176701952",
-    "score": 0.85
-  },
-  {
-    "path": "/collection/6630002/5942100481015808",
-    "score": 0.89
-  },
-  {
-    "path": "/collection/6633161687040000/6615787993563136",
     "score": 0.83
   },
   {
-    "path": "/collection/page/10370001/4525026060795904/6302875647737856/cloudlab",
-    "score": 0.91
+    "path": "/collection/10370001/6588114816466944",
+    "score": 0.85
   },
   {
-    "path": "/collection/page/10370001/4534148557701120/5413511587168256/project",
-    "score": 0.88
-  },
-  {
-    "path": "/collection/page/10370001/4580515144007680/6206217524609024/cloudlab",
-    "score": 0.89
-  },
-  {
-    "path": "/collection/page/10370001/4580610826043392/4741495620108288/assessment",
-    "score": 0.88
-  },
-  {
-    "path": "/collection/page/10370001/4589876711522304/6032002175467520/cloudlab",
-    "score": 0.88
-  },
-  {
-    "path": "/collection/page/10370001/4603392076283904/6451256926666752/project",
-    "score": 0.86
-  },
-  {
-    "path": "/collection/page/10370001/4607588452270080/5334981328502784/project",
+    "path": "/collection/6630002/4924114977423360",
     "score": 0.84
   },
   {
-    "path": "/collection/page/10370001/4618838700982272/5256267680710656/cloudlab",
-    "score": 0.9
+    "path": "/collection/6630002/5199453776510976",
+    "score": 0.84
   },
   {
-    "path": "/collection/page/10370001/4619863233658880/5996310527475712/cloudlab",
-    "score": 0.89
+    "path": "/collection/6630002/5551091176701952",
+    "score": 0.83
   },
   {
-    "path": "/collection/page/10370001/4620998892847104/6621589491941376/project",
-    "score": 0.86
+    "path": "/collection/6630002/5942100481015808",
+    "score": 0.92
   },
   {
-    "path": "/collection/page/10370001/4624042572644352/4828189934747648/project",
-    "score": 0.91
-  },
-  {
-    "path": "/collection/page/10370001/4649473620049920/6336889229672448/assessment",
+    "path": "/collection/6630002/6070327361667072",
     "score": 0.85
   },
   {
-    "path": "/collection/page/10370001/4666450377965568/6633349944967168/project",
-    "score": 0.87
+    "path": "/collection/6633161687040000/6615787993563136",
+    "score": 0.94
   },
   {
-    "path": "/collection/page/10370001/4675669138341888/5640243496878080/assessment",
-    "score": 0.85
-  },
-  {
-    "path": "/collection/page/10370001/4687320334204928/4668140243386368/project",
-    "score": 0.87
-  },
-  {
-    "path": "/collection/page/10370001/4695488399147008/5035885025558528/assessment",
+    "path": "/collection/page/10370001/4525026060795904/6302875647737856/cloudlab",
     "score": 0.88
   },
   {
-    "path": "/collection/page/10370001/4729076288061440/6341444310925312/project",
+    "path": "/collection/page/10370001/4534148557701120/5413511587168256/project",
+    "score": 0.9
+  },
+  {
+    "path": "/collection/page/10370001/4580515144007680/6206217524609024/cloudlab",
+    "score": 0.86
+  },
+  {
+    "path": "/collection/page/10370001/4580610826043392/4741495620108288/assessment",
     "score": 0.89
   },
   {
+    "path": "/collection/page/10370001/4589876711522304/6032002175467520/cloudlab",
+    "score": 0.9
+  },
+  {
+    "path": "/collection/page/10370001/4603392076283904/6451256926666752/project",
+    "score": 0.9
+  },
+  {
+    "path": "/collection/page/10370001/4607588452270080/5334981328502784/project",
+    "score": 0.88
+  },
+  {
+    "path": "/collection/page/10370001/4618838700982272/5256267680710656/cloudlab",
+    "score": 0.92
+  },
+  {
+    "path": "/collection/page/10370001/4619863233658880/5996310527475712/cloudlab",
+    "score": 0.85
+  },
+  {
+    "path": "/collection/page/10370001/4620998892847104/6621589491941376/project",
+    "score": 0.94
+  },
+  {
+    "path": "/collection/page/10370001/4624042572644352/4828189934747648/project",
+    "score": 0.88
+  },
+  {
+    "path": "/collection/page/10370001/4649473620049920/6336889229672448/assessment",
+    "score": 0.87
+  },
+  {
+    "path": "/collection/page/10370001/4666450377965568/6633349944967168/project",
+    "score": 0.88
+  },
+  {
+    "path": "/collection/page/10370001/4675669138341888/5640243496878080/assessment",
+    "score": 0.9
+  },
+  {
+    "path": "/collection/page/10370001/4687320334204928/4668140243386368/project",
+    "score": 0.91
+  },
+  {
+    "path": "/collection/page/10370001/4695488399147008/5035885025558528/assessment",
+    "score": 0.91
+  },
+  {
+    "path": "/collection/page/10370001/4729076288061440/6341444310925312/project",
+    "score": 0.85
+  },
+  {
     "path": "/collection/page/10370001/4736195994583040/5726993315790848/project",
-    "score": 0.86
+    "score": 0.9
   },
   {
     "path": "/collection/page/10370001/4751146326687744/6016584050278400/project",
@@ -257,27 +257,27 @@
   },
   {
     "path": "/collection/page/10370001/4752686122270720/5745459222806528/cloudlab",
-    "score": 0.89
+    "score": 0.91
   },
   {
     "path": "/collection/page/10370001/4775533917503488/6601248581353472/project",
-    "score": 0.93
+    "score": 0.88
   },
   {
     "path": "/collection/page/10370001/4806356996980736/6510141834264576/project",
-    "score": 0.85
+    "score": 0.88
   },
   {
     "path": "/collection/page/10370001/4823974122094592/4678688699580416/cloudlab",
-    "score": 0.9
+    "score": 0.87
   },
   {
     "path": "/collection/page/10370001/4838834625052672/6747437813989376/cloudlab",
-    "score": 0.89
+    "score": 0.91
   },
   {
     "path": "/collection/page/10370001/4839968796573696/5140410952843264/assessment",
-    "score": 0.91
+    "score": 0.9
   },
   {
     "path": "/collection/page/10370001/4871491358818304/4994996231208960/project",
@@ -285,19 +285,19 @@
   },
   {
     "path": "/collection/page/10370001/4884520268726272/5057701671600128/project",
-    "score": 0.84
-  },
-  {
-    "path": "/collection/page/10370001/4886903227940864/5034749088497664/cloudlab",
     "score": 0.88
   },
   {
+    "path": "/collection/page/10370001/4886903227940864/5034749088497664/cloudlab",
+    "score": 0.91
+  },
+  {
     "path": "/collection/page/10370001/4887765509996544/6598202278543360/project",
-    "score": 0.9
+    "score": 0.86
   },
   {
     "path": "/collection/page/10370001/4900520051605504/4970501812518912/project",
-    "score": 0.87
+    "score": 0.89
   },
   {
     "path": "/collection/page/10370001/4937221736235008/4755392869695488/project",
@@ -305,7 +305,7 @@
   },
   {
     "path": "/collection/page/10370001/4945372585918464/5532598231367680/project",
-    "score": 0.84
+    "score": 0.91
   },
   {
     "path": "/collection/page/10370001/4947789167722496/4882083516514304/project",
@@ -313,99 +313,99 @@
   },
   {
     "path": "/collection/page/10370001/4961931122704384/5306036856029184/project",
-    "score": 0.88
-  },
-  {
-    "path": "/collection/page/10370001/4991778965159936/5510878778884096/project",
-    "score": 0.87
-  },
-  {
-    "path": "/collection/page/10370001/4995537272307712/5980131320659968/project",
-    "score": 0.87
-  },
-  {
-    "path": "/collection/page/10370001/5015481885130752/4865980113354752/project",
-    "score": 0.89
-  },
-  {
-    "path": "/collection/page/10370001/5015853869563904/5096850896191488/assessment",
-    "score": 0.89
-  },
-  {
-    "path": "/collection/page/10370001/5020637405118464/4936545804222464/project",
-    "score": 0.84
-  },
-  {
-    "path": "/collection/page/10370001/5038933566291968/5243380317814784/project",
-    "score": 0.91
-  },
-  {
-    "path": "/collection/page/10370001/5056176095232000/6663201006813184/assessment",
-    "score": 0.87
-  },
-  {
-    "path": "/collection/page/10370001/5065160884748288/4756286063509504/project",
-    "score": 0.83
-  },
-  {
-    "path": "/collection/page/10370001/5066413533822976/5117627361394688/project",
-    "score": 0.85
-  },
-  {
-    "path": "/collection/page/10370001/5086806324543488/5351066199916544/project",
-    "score": 0.87
-  },
-  {
-    "path": "/collection/page/10370001/5089245029203968/4756844222611456/project",
-    "score": 0.89
-  },
-  {
-    "path": "/collection/page/10370001/5090593783152640/6317541519785984/project",
-    "score": 0.9
-  },
-  {
-    "path": "/collection/page/10370001/5100221100195840/5026223462547456/cloudlab",
-    "score": 0.88
-  },
-  {
-    "path": "/collection/page/10370001/5103701189984256/4982777660833792/assessment",
-    "score": 0.84
-  },
-  {
-    "path": "/collection/page/10370001/5134066114625536/5401949533110272/project",
-    "score": 0.88
-  },
-  {
-    "path": "/collection/page/10370001/5142290616287232/5017115136622592/project",
-    "score": 0.82
-  },
-  {
-    "path": "/collection/page/10370001/5151580821389312/5970271448334336/project",
-    "score": 0.9
-  },
-  {
-    "path": "/collection/page/10370001/5168440716820480/6693946058604544/project",
-    "score": 0.87
-  },
-  {
-    "path": "/collection/page/10370001/5169748918140928/4859536187326464/project",
     "score": 0.92
   },
   {
-    "path": "/collection/page/10370001/5180648709160960/4672848954392576/project",
+    "path": "/collection/page/10370001/4991778965159936/5510878778884096/project",
     "score": 0.86
   },
   {
-    "path": "/collection/page/10370001/5218676598374400/5313818017660928/assessment",
-    "score": 0.83
+    "path": "/collection/page/10370001/4995537272307712/5980131320659968/project",
+    "score": 0.89
   },
   {
-    "path": "/collection/page/10370001/5242171162886144/4975597910753280/project",
+    "path": "/collection/page/10370001/5015481885130752/4865980113354752/project",
+    "score": 0.91
+  },
+  {
+    "path": "/collection/page/10370001/5015853869563904/5096850896191488/assessment",
+    "score": 0.86
+  },
+  {
+    "path": "/collection/page/10370001/5020637405118464/4936545804222464/project",
+    "score": 0.86
+  },
+  {
+    "path": "/collection/page/10370001/5038933566291968/5243380317814784/project",
+    "score": 0.87
+  },
+  {
+    "path": "/collection/page/10370001/5056176095232000/6663201006813184/assessment",
+    "score": 0.91
+  },
+  {
+    "path": "/collection/page/10370001/5065160884748288/4756286063509504/project",
+    "score": 0.91
+  },
+  {
+    "path": "/collection/page/10370001/5066413533822976/5117627361394688/project",
+    "score": 0.9
+  },
+  {
+    "path": "/collection/page/10370001/5086806324543488/5351066199916544/project",
+    "score": 0.92
+  },
+  {
+    "path": "/collection/page/10370001/5089245029203968/4756844222611456/project",
+    "score": 0.88
+  },
+  {
+    "path": "/collection/page/10370001/5090593783152640/6317541519785984/project",
+    "score": 0.88
+  },
+  {
+    "path": "/collection/page/10370001/5100221100195840/5026223462547456/cloudlab",
+    "score": 0.91
+  },
+  {
+    "path": "/collection/page/10370001/5103701189984256/4982777660833792/assessment",
+    "score": 0.86
+  },
+  {
+    "path": "/collection/page/10370001/5134066114625536/5401949533110272/project",
+    "score": 0.9
+  },
+  {
+    "path": "/collection/page/10370001/5142290616287232/5017115136622592/project",
+    "score": 0.84
+  },
+  {
+    "path": "/collection/page/10370001/5151580821389312/5970271448334336/project",
+    "score": 0.91
+  },
+  {
+    "path": "/collection/page/10370001/5168440716820480/6693946058604544/project",
+    "score": 0.89
+  },
+  {
+    "path": "/collection/page/10370001/5169748918140928/4859536187326464/project",
+    "score": 0.87
+  },
+  {
+    "path": "/collection/page/10370001/5180648709160960/4672848954392576/project",
+    "score": 0.87
+  },
+  {
+    "path": "/collection/page/10370001/5218676598374400/5313818017660928/assessment",
     "score": 0.85
   },
   {
+    "path": "/collection/page/10370001/5242171162886144/4975597910753280/project",
+    "score": 0.84
+  },
+  {
     "path": "/collection/page/10370001/5244176165240832/4983444035076096/project",
-    "score": 0.9
+    "score": 0.88
   },
   {
     "path": "/collection/page/10370001/5245383679934464/4704079891922944/cloudlab",
@@ -413,7 +413,7 @@
   },
   {
     "path": "/collection/page/10370001/5247139473260544/6211116781010944/project",
-    "score": 0.92
+    "score": 0.89
   },
   {
     "path": "/collection/page/10370001/5257699222093824/6137658631258112/project",
@@ -425,23 +425,23 @@
   },
   {
     "path": "/collection/page/10370001/5286201235341312/4588838803996672/assessment",
-    "score": 0.88
+    "score": 0.9
   },
   {
     "path": "/collection/page/10370001/5307097897500672/6678431529435136/project",
-    "score": 0.91
+    "score": 0.92
   },
   {
     "path": "/collection/page/10370001/5327096288378880/5948142219165696/cloudlab",
-    "score": 0.82
+    "score": 0.91
   },
   {
     "path": "/collection/page/10370001/5334124235063296/4658597887213568/project",
-    "score": 0.87
+    "score": 0.92
   },
   {
     "path": "/collection/page/10370001/5340964427661312/5288373987573760/project",
-    "score": 0.85
+    "score": 0.86
   },
   {
     "path": "/collection/page/10370001/5347024315875328/5903350743433216/cloudlab",
@@ -449,27 +449,27 @@
   },
   {
     "path": "/collection/page/10370001/5351318496739328/5368077190692864/assessment",
-    "score": 0.85
+    "score": 0.9
   },
   {
     "path": "/collection/page/10370001/5367851268177920/4986639500443648/cloudlab",
-    "score": 0.9
+    "score": 0.91
   },
   {
     "path": "/collection/page/10370001/5373410902016000/4943421123592192/cloudlab",
-    "score": 0.87
-  },
-  {
-    "path": "/collection/page/10370001/5375235223453696/5111582934958080/project",
     "score": 0.9
   },
   {
+    "path": "/collection/page/10370001/5375235223453696/5111582934958080/project",
+    "score": 0.89
+  },
+  {
     "path": "/collection/page/10370001/5376903766867968/5549909772337152/project",
-    "score": 0.87
+    "score": 0.89
   },
   {
     "path": "/collection/page/10370001/5378929254989824/6080668136374272/assessment",
-    "score": 0.88
+    "score": 0.93
   },
   {
     "path": "/collection/page/10370001/5388620904529920/5257723723120640/assessment",
@@ -477,15 +477,15 @@
   },
   {
     "path": "/collection/page/10370001/5392095152177152/5048028409102336/project",
-    "score": 0.87
-  },
-  {
-    "path": "/collection/page/10370001/5405225487958016/4705554780127232/assessment",
     "score": 0.85
   },
   {
+    "path": "/collection/page/10370001/5405225487958016/4705554780127232/assessment",
+    "score": 0.91
+  },
+  {
     "path": "/collection/page/10370001/5410155756519424/5965548646301696/cloudlab",
-    "score": 0.88
+    "score": 0.89
   },
   {
     "path": "/collection/page/10370001/5427170283618304/5268092085338112/project",
@@ -493,47 +493,47 @@
   },
   {
     "path": "/collection/page/10370001/5443207412580352/5465187142598656/assessment",
-    "score": 0.85
+    "score": 0.89
   },
   {
     "path": "/collection/page/10370001/5470059079401472/5569740304285696/project",
-    "score": 0.9
-  },
-  {
-    "path": "/collection/page/10370001/5484364767166464/4573804420661248/project",
-    "score": 0.83
-  },
-  {
-    "path": "/collection/page/10370001/5516451215835136/5876014788116480/project",
-    "score": 0.88
-  },
-  {
-    "path": "/collection/page/10370001/5535324072312832/4585241688408064/cloudlab",
-    "score": 0.88
-  },
-  {
-    "path": "/collection/page/10370001/5542314432004096/6622697030418432/cloudlab",
-    "score": 0.82
-  },
-  {
-    "path": "/collection/page/10370001/5555608632950784/5547700415365120/project",
     "score": 0.91
   },
   {
-    "path": "/collection/page/10370001/5565672218427392/5482648218894336/project",
-    "score": 0.84
+    "path": "/collection/page/10370001/5484364767166464/4573804420661248/project",
+    "score": 0.86
   },
   {
-    "path": "/collection/page/10370001/5566165435023360/5450675240828928/project",
+    "path": "/collection/page/10370001/5516451215835136/5876014788116480/project",
     "score": 0.92
   },
   {
-    "path": "/collection/page/10370001/5584614843744256/5447845369085952/project",
+    "path": "/collection/page/10370001/5535324072312832/4585241688408064/cloudlab",
+    "score": 0.9
+  },
+  {
+    "path": "/collection/page/10370001/5542314432004096/6622697030418432/cloudlab",
+    "score": 0.88
+  },
+  {
+    "path": "/collection/page/10370001/5555608632950784/5547700415365120/project",
     "score": 0.87
   },
   {
+    "path": "/collection/page/10370001/5565672218427392/5482648218894336/project",
+    "score": 0.87
+  },
+  {
+    "path": "/collection/page/10370001/5566165435023360/5450675240828928/project",
+    "score": 0.93
+  },
+  {
+    "path": "/collection/page/10370001/5584614843744256/5447845369085952/project",
+    "score": 0.9
+  },
+  {
     "path": "/collection/page/10370001/5585404752822272/6631578289045504/project",
-    "score": 0.88
+    "score": 0.87
   },
   {
     "path": "/collection/page/10370001/5601729549959168/5549430003204096/cloudlab",
@@ -545,23 +545,23 @@
   },
   {
     "path": "/collection/page/10370001/5628683538137088/6413252361191424/assessment",
-    "score": 0.84
+    "score": 0.91
   },
   {
     "path": "/collection/page/10370001/5629254522109952/6755154428952576/project",
-    "score": 0.92
+    "score": 0.91
   },
   {
     "path": "/collection/page/10370001/5650783991496704/5571460374724608/project",
-    "score": 0.87
+    "score": 0.86
   },
   {
     "path": "/collection/page/10370001/5663028070842368/5580604292988928/project",
-    "score": 0.85
+    "score": 0.89
   },
   {
     "path": "/collection/page/10370001/5720103868170240/5806253286883328/project",
-    "score": 0.86
+    "score": 0.87
   },
   {
     "path": "/collection/page/10370001/5730168531845120/4861336577638400/project",
@@ -569,23 +569,23 @@
   },
   {
     "path": "/collection/page/10370001/5752589687193600/4681830415990784/assessment",
-    "score": 0.9
+    "score": 0.89
   },
   {
     "path": "/collection/page/10370001/5781001634840576/5155779990781952/project",
-    "score": 0.86
+    "score": 0.91
   },
   {
     "path": "/collection/page/10370001/5817951773261824/5982799832285184/project",
-    "score": 0.84
+    "score": 0.86
   },
   {
     "path": "/collection/page/10370001/5864629699346432/4791630502035456/project",
-    "score": 0.87
+    "score": 0.92
   },
   {
     "path": "/collection/page/10370001/5879271949336576/6424309372551168/assessment",
-    "score": 0.86
+    "score": 0.85
   },
   {
     "path": "/collection/page/10370001/5890924618186752/4923575844995072/project",
@@ -593,19 +593,19 @@
   },
   {
     "path": "/collection/page/10370001/5896562765201408/4788535559454720/project",
-    "score": 0.84
+    "score": 0.87
   },
   {
     "path": "/collection/page/10370001/5948104969027584/4612762156400640/project",
-    "score": 0.87
+    "score": 0.88
   },
   {
     "path": "/collection/page/10370001/5963661281067008/5504460960301056/project",
-    "score": 0.87
+    "score": 0.86
   },
   {
     "path": "/collection/page/10370001/5986327882629120/4517474518433792/cloudlab",
-    "score": 0.88
+    "score": 0.93
   },
   {
     "path": "/collection/page/10370001/5993792801079296/5430842847657984/project",
@@ -613,35 +613,35 @@
   },
   {
     "path": "/collection/page/10370001/6008140117573632/5934903811637248/project",
-    "score": 0.85
+    "score": 0.93
   },
   {
     "path": "/collection/page/10370001/6012080339025920/5370752710213632/project",
-    "score": 0.86
-  },
-  {
-    "path": "/collection/page/10370001/6013481823502336/5430988946800640/cloudlab",
-    "score": 0.92
-  },
-  {
-    "path": "/collection/page/10370001/6021001559408640/4883782266257408/project",
-    "score": 0.89
-  },
-  {
-    "path": "/collection/page/10370001/6042234747355136/5638497157513216/project",
     "score": 0.84
   },
   {
-    "path": "/collection/page/10370001/6048601452576768/6652526107033600/project",
-    "score": 0.87
+    "path": "/collection/page/10370001/6013481823502336/5430988946800640/cloudlab",
+    "score": 0.89
   },
   {
-    "path": "/collection/page/10370001/6049582979743744/4762766527954944/cloudlab",
+    "path": "/collection/page/10370001/6021001559408640/4883782266257408/project",
+    "score": 0.86
+  },
+  {
+    "path": "/collection/page/10370001/6042234747355136/5638497157513216/project",
     "score": 0.9
   },
   {
-    "path": "/collection/page/10370001/6053507799187456/4542177443315712/project",
+    "path": "/collection/page/10370001/6048601452576768/6652526107033600/project",
+    "score": 0.86
+  },
+  {
+    "path": "/collection/page/10370001/6049582979743744/4762766527954944/cloudlab",
     "score": 0.87
+  },
+  {
+    "path": "/collection/page/10370001/6053507799187456/4542177443315712/project",
+    "score": 0.82
   },
   {
     "path": "/collection/page/10370001/6054328004771840/4683018951458816/assessment",
@@ -649,39 +649,39 @@
   },
   {
     "path": "/collection/page/10370001/6057237876572160/5451665139040256/cloudlab",
-    "score": 0.89
+    "score": 0.88
   },
   {
     "path": "/collection/page/10370001/6067692800311296/5524348785393664/project",
-    "score": 0.86
+    "score": 0.89
   },
   {
     "path": "/collection/page/10370001/6070738385108992/4660037116493824/project",
-    "score": 0.91
-  },
-  {
-    "path": "/collection/page/10370001/6078616268177408/6414215885881344/project",
     "score": 0.87
   },
   {
+    "path": "/collection/page/10370001/6078616268177408/6414215885881344/project",
+    "score": 0.88
+  },
+  {
     "path": "/collection/page/10370001/6100410544947200/6744595656605696/assessment",
-    "score": 0.91
+    "score": 0.85
   },
   {
     "path": "/collection/page/10370001/6144850325405696/5546132723204096/assessment",
-    "score": 0.86
+    "score": 0.93
   },
   {
     "path": "/collection/page/10370001/6168039114670080/5158861856309248/project",
-    "score": 0.89
+    "score": 0.86
   },
   {
     "path": "/collection/page/10370001/6173686995615744/4809773691437056/project",
-    "score": 0.89
+    "score": 0.92
   },
   {
     "path": "/collection/page/10370001/6185022683086848/4945917504651264/cloudlab",
-    "score": 0.91
+    "score": 0.89
   },
   {
     "path": "/collection/page/10370001/6185692629041152/6534005685485568/project",
@@ -689,79 +689,79 @@
   },
   {
     "path": "/collection/page/10370001/6187024566714368/5909151893159936/project",
-    "score": 0.88
+    "score": 0.86
   },
   {
     "path": "/collection/page/10370001/6191255267835904/5735260099969024/cloudlab",
-    "score": 0.86
+    "score": 0.92
   },
   {
     "path": "/collection/page/10370001/6199163510587392/5958167813685248/cloudlab",
-    "score": 0.87
+    "score": 0.86
   },
   {
     "path": "/collection/page/10370001/6201452334940160/6110999249944576/project",
-    "score": 0.84
+    "score": 0.86
   },
   {
     "path": "/collection/page/10370001/6207613452943360/6327264027607040/project",
-    "score": 0.9
-  },
-  {
-    "path": "/collection/page/10370001/6222188529319936/5218388452573184/project",
-    "score": 0.9
-  },
-  {
-    "path": "/collection/page/10370001/6223384572854272/5673260767510528/project",
     "score": 0.88
   },
   {
+    "path": "/collection/page/10370001/6222188529319936/5218388452573184/project",
+    "score": 0.88
+  },
+  {
+    "path": "/collection/page/10370001/6223384572854272/5673260767510528/project",
+    "score": 0.9
+  },
+  {
     "path": "/collection/page/10370001/6234245429460992/4673347732635648/project",
-    "score": 0.84
+    "score": 0.91
   },
   {
     "path": "/collection/page/10370001/6235851021615104/6201106011258880/project",
-    "score": 0.82
+    "score": 0.85
   },
   {
     "path": "/collection/page/10370001/6248406603530240/4801773571407872/project",
-    "score": 0.86
+    "score": 0.87
   },
   {
     "path": "/collection/page/10370001/6259932105539584/6332026235387904/project",
-    "score": 0.87
+    "score": 0.91
   },
   {
     "path": "/collection/page/10370001/6262855276167168/6573016070225920/project",
-    "score": 0.84
+    "score": 0.86
   },
   {
     "path": "/collection/page/10370001/6282724670701568/5534076900999168/project",
-    "score": 0.87
+    "score": 0.9
   },
   {
     "path": "/collection/page/10370001/6342470449496064/6568202824056832/project",
-    "score": 0.86
+    "score": 0.89
   },
   {
     "path": "/collection/page/10370001/6368193004437504/4801902275723264/project",
-    "score": 0.89
+    "score": 0.88
   },
   {
     "path": "/collection/page/10370001/6369311913672704/5587465059696640/project",
-    "score": 0.83
-  },
-  {
-    "path": "/collection/page/10370001/6378306781315072/5427973863243776/project",
-    "score": 0.86
-  },
-  {
-    "path": "/collection/page/10370001/6379943268712448/5286579349749760/project",
     "score": 0.89
   },
   {
-    "path": "/collection/page/10370001/6383415582785536/6135147279941632/project",
+    "path": "/collection/page/10370001/6378306781315072/5427973863243776/project",
+    "score": 0.88
+  },
+  {
+    "path": "/collection/page/10370001/6379943268712448/5286579349749760/project",
     "score": 0.9
+  },
+  {
+    "path": "/collection/page/10370001/6383415582785536/6135147279941632/project",
+    "score": 0.86
   },
   {
     "path": "/collection/page/10370001/6389692607234048/6089561483771904/project",
@@ -769,19 +769,19 @@
   },
   {
     "path": "/collection/page/10370001/6392383902318592/5333606019104768/project",
-    "score": 0.84
+    "score": 0.86
   },
   {
     "path": "/collection/page/10370001/6405648327901184/5812828252667904/project",
-    "score": 0.86
+    "score": 0.91
   },
   {
     "path": "/collection/page/10370001/6427624887025664/6424521840263168/project",
-    "score": 0.84
+    "score": 0.85
   },
   {
     "path": "/collection/page/10370001/6432592367976448/5316816605020160/project",
-    "score": 0.86
+    "score": 0.85
   },
   {
     "path": "/collection/page/10370001/6444439158915072/5981619858440192/assessment",
@@ -789,7 +789,7 @@
   },
   {
     "path": "/collection/page/10370001/6469243857272832/4739533339099136/assessment",
-    "score": 0.87
+    "score": 0.89
   },
   {
     "path": "/collection/page/10370001/6485887138660352/5866884775018496/cloudlab",
@@ -797,87 +797,87 @@
   },
   {
     "path": "/collection/page/10370001/6500334226898944/5100930064449536/project",
-    "score": 0.91
+    "score": 0.9
   },
   {
     "path": "/collection/page/10370001/6526823245807616/6130356022673408/project",
-    "score": 0.86
+    "score": 0.89
   },
   {
     "path": "/collection/page/10370001/6539249976868864/4968162583379968/project",
-    "score": 0.86
+    "score": 0.88
   },
   {
     "path": "/collection/page/10370001/6544544523091968/6440741136236544/assessment",
-    "score": 0.93
+    "score": 0.85
   },
   {
     "path": "/collection/page/10370001/6559258140737536/5094122590830592/project",
-    "score": 0.9
+    "score": 0.89
   },
   {
     "path": "/collection/page/10370001/6567704612044800/5819495807713280/project",
-    "score": 0.89
-  },
-  {
-    "path": "/collection/page/10370001/6575286532702208/5625490602983424/assessment",
-    "score": 0.88
-  },
-  {
-    "path": "/collection/page/10370001/6589884604350464/5606585866125312/cloudlab",
-    "score": 0.91
-  },
-  {
-    "path": "/collection/page/10370001/6605480251621376/6105730608529408/project",
-    "score": 0.9
-  },
-  {
-    "path": "/collection/page/10370001/6628221817978880/5488262805454848/cloudlab",
-    "score": 0.88
-  },
-  {
-    "path": "/collection/page/10370001/6630323149078528/6214287382282240/cloudlab",
-    "score": 0.88
-  },
-  {
-    "path": "/collection/page/10370001/6633334140829696/5678229933522944/project",
-    "score": 0.89
-  },
-  {
-    "path": "/collection/page/10370001/6644824229019648/5425549216579584/project",
-    "score": 0.87
-  },
-  {
-    "path": "/collection/page/10370001/6648093265362944/5343039484854272/project",
-    "score": 0.87
-  },
-  {
-    "path": "/collection/page/10370001/6649629085270016/6223622083706880/project",
-    "score": 0.88
-  },
-  {
-    "path": "/collection/page/10370001/6669435808514048/4557933108527104/project",
-    "score": 0.89
-  },
-  {
-    "path": "/collection/page/10370001/6683401408479232/5435495405846528/assessment",
-    "score": 0.94
-  },
-  {
-    "path": "/collection/page/10370001/6715294078992384/5047238168674304/assessment",
-    "score": 0.91
-  },
-  {
-    "path": "/collection/page/10370001/6724412594978816/5304246743597056/cloudlab",
-    "score": 0.87
-  },
-  {
-    "path": "/collection/page/10370001/6754966387818496/5100913698275328/project",
     "score": 0.92
   },
   {
-    "path": "/collection/page/6586453712175104/5110854412664832/5819413286879232/project",
+    "path": "/collection/page/10370001/6575286532702208/5625490602983424/assessment",
+    "score": 0.87
+  },
+  {
+    "path": "/collection/page/10370001/6589884604350464/5606585866125312/cloudlab",
+    "score": 0.86
+  },
+  {
+    "path": "/collection/page/10370001/6605480251621376/6105730608529408/project",
+    "score": 0.89
+  },
+  {
+    "path": "/collection/page/10370001/6628221817978880/5488262805454848/cloudlab",
+    "score": 0.87
+  },
+  {
+    "path": "/collection/page/10370001/6630323149078528/6214287382282240/cloudlab",
+    "score": 0.91
+  },
+  {
+    "path": "/collection/page/10370001/6633334140829696/5678229933522944/project",
     "score": 0.9
+  },
+  {
+    "path": "/collection/page/10370001/6644824229019648/5425549216579584/project",
+    "score": 0.88
+  },
+  {
+    "path": "/collection/page/10370001/6648093265362944/5343039484854272/project",
+    "score": 0.92
+  },
+  {
+    "path": "/collection/page/10370001/6649629085270016/6223622083706880/project",
+    "score": 0.93
+  },
+  {
+    "path": "/collection/page/10370001/6669435808514048/4557933108527104/project",
+    "score": 0.88
+  },
+  {
+    "path": "/collection/page/10370001/6683401408479232/5435495405846528/assessment",
+    "score": 0.92
+  },
+  {
+    "path": "/collection/page/10370001/6715294078992384/5047238168674304/assessment",
+    "score": 0.93
+  },
+  {
+    "path": "/collection/page/10370001/6724412594978816/5304246743597056/cloudlab",
+    "score": 0.9
+  },
+  {
+    "path": "/collection/page/10370001/6754966387818496/5100913698275328/project",
+    "score": 0.9
+  },
+  {
+    "path": "/collection/page/6586453712175104/5110854412664832/5819413286879232/project",
+    "score": 0.95
   },
   {
     "path": "/collection/page/6586453712175104/5563970498068480/5591611598962688/project",
@@ -885,71 +885,71 @@
   },
   {
     "path": "/collection/page/6586453712175104/5940128288866304/5635477911896064/project",
-    "score": 0.85
+    "score": 0.89
   },
   {
     "path": "/collection/page/6586453712175104/6025117845159936/4779675719303168/project",
-    "score": 0.9
-  },
-  {
-    "path": "/collection/page/6586453712175104/6200268763168768/5901787628568576/project",
     "score": 0.88
   },
   {
+    "path": "/collection/page/6586453712175104/6200268763168768/5901787628568576/project",
+    "score": 0.89
+  },
+  {
     "path": "/collection/page/6586453712175104/6725651640090624/6606555594358784/project",
-    "score": 0.87
+    "score": 0.88
   },
   {
     "path": "/concurrency-for-coding-interviews",
-    "score": 0.9
+    "score": 0.89
   },
   {
     "path": "/condensed-interview-layout",
-    "score": 0.54
+    "score": 0.53
   },
   {
     "path": "/connect-all-siblings",
-    "score": 0.9
+    "score": 0.91
   },
   {
     "path": "/convert-binary-tree-to-doubly-linked-list",
-    "score": 0.95
+    "score": 0.96
   },
   {
     "path": "/copy-linked-list-with-arbitrary-pointer",
-    "score": 0.84
-  },
-  {
-    "path": "/courses/data-structures-and-algorithms-go",
     "score": 0.91
   },
   {
-    "path": "/courses/fundamentals-of-machine-learning-for-software-engineers",
-    "score": 0.92
-  },
-  {
-    "path": "/courses/medical-image-analysis-python",
+    "path": "/courses/android-development-masterclass",
     "score": 0.93
   },
   {
-    "path": "/courses/testing-react-apps-jest-react-testing-library",
+    "path": "/courses/effective-performance-management-for-engineering-teams",
     "score": 0.91
   },
   {
-    "path": "/courses/working-with-containers-docker-docker-compose",
+    "path": "/courses/operating-systems-virtualization-concurrency-persistence",
+    "score": 0.94
+  },
+  {
+    "path": "/courses/rails-for-front-end-development-essential-tools",
+    "score": 0.93
+  },
+  {
+    "path": "/courses/using-r-data-analysis-social-sciences",
     "score": 0.93
   },
   {
     "path": "/cpp-coding-interview",
-    "score": 0.89
+    "score": 0.88
   },
   {
     "path": "/create-customized-content",
-    "score": 0.92
+    "score": 0.95
   },
   {
     "path": "/data-structures",
-    "score": 0.92
+    "score": 0.91
   },
   {
     "path": "/data-structures-for-coding-interviews",
@@ -957,27 +957,27 @@
   },
   {
     "path": "/decode-the-coding-interview",
-    "score": 0.93
+    "score": 0.96
   },
   {
     "path": "/delete-node-with-given-key",
-    "score": 0.92
-  },
-  {
-    "path": "/devquiz",
-    "score": 0.97
-  },
-  {
-    "path": "/doc-workflows",
     "score": 0.91
   },
   {
+    "path": "/devquiz",
+    "score": 0.94
+  },
+  {
+    "path": "/doc-workflows",
+    "score": 0.86
+  },
+  {
     "path": "/docs-devs-learning",
-    "score": 0.6
+    "score": 0.59
   },
   {
     "path": "/ebook-download",
-    "score": 0.95
+    "score": 0.98
   },
   {
     "path": "/edpresso-gift-subscriptions",
@@ -989,43 +989,43 @@
   },
   {
     "path": "/educative-and-gdsc-devcareers-workshop",
-    "score": 0.92
+    "score": 0.96
   },
   {
     "path": "/educative-answers",
-    "score": 0.91
-  },
-  {
-    "path": "/educative-enterprise-onboarding",
-    "score": 0.91
-  },
-  {
-    "path": "/educative-teams",
-    "score": 0.67
-  },
-  {
-    "path": "/educative-technical-writing-workshop-landing-page",
-    "score": 0.91
-  },
-  {
-    "path": "/educativeeditor",
-    "score": 0.86
-  },
-  {
-    "path": "/email-confirmation",
-    "score": 0.93
-  },
-  {
-    "path": "/enterprise-booking-confirmation",
     "score": 0.84
   },
   {
+    "path": "/educative-enterprise-onboarding",
+    "score": 0.94
+  },
+  {
+    "path": "/educative-teams",
+    "score": 0.62
+  },
+  {
+    "path": "/educative-technical-writing-workshop-landing-page",
+    "score": 0.92
+  },
+  {
+    "path": "/educativeeditor",
+    "score": 0.99
+  },
+  {
+    "path": "/email-confirmation",
+    "score": 0.92
+  },
+  {
+    "path": "/enterprise-booking-confirmation",
+    "score": 0.92
+  },
+  {
     "path": "/find-all-palindrome-substrings",
-    "score": 0.9
+    "score": 0.91
   },
   {
     "path": "/find-all-subsets",
-    "score": 0.93
+    "score": 0.95
   },
   {
     "path": "/find-all-sum-combinations",
@@ -1033,7 +1033,7 @@
   },
   {
     "path": "/find-low-high-index",
-    "score": 0.93
+    "score": 0.94
   },
   {
     "path": "/find-maximum-single-sell-profit",
@@ -1041,7 +1041,7 @@
   },
   {
     "path": "/find-permutation",
-    "score": 0.93
+    "score": 0.94
   },
   {
     "path": "/find-the-missing-number",
@@ -1049,23 +1049,23 @@
   },
   {
     "path": "/free-gift",
-    "score": 0.9
+    "score": 0.96
   },
   {
     "path": "/future-proof-your-tech-career",
-    "score": 0.66
+    "score": 0.62
   },
   {
     "path": "/get-educative-teams",
-    "score": 0.66
+    "score": 0.6
   },
   {
     "path": "/get-started-with-educative-learn",
-    "score": 0.89
+    "score": 0.91
   },
   {
     "path": "/get-started-with-educative-recruit",
-    "score": 0.89
+    "score": 0.91
   },
   {
     "path": "/github-student-course-list",
@@ -1073,23 +1073,23 @@
   },
   {
     "path": "/grokking-the-modern-system-design-interview",
-    "score": 0.62
+    "score": 0.61
   },
   {
     "path": "/how-to-write-a-shot",
-    "score": 0.94
+    "score": 0.95
   },
   {
     "path": "/https--sessions-educativelandenco-",
-    "score": 0.96
+    "score": 1
   },
   {
     "path": "/implement-least-recently-used-cache",
-    "score": 0.93
+    "score": 0.86
   },
   {
     "path": "/intersection-point-of-two-linked-lists",
-    "score": 0.91
+    "score": 0.9
   },
   {
     "path": "/is-binary-tree-a-binary-search-tree",
@@ -1097,198 +1097,198 @@
   },
   {
     "path": "/is-the-number-valid",
-    "score": 0.95
+    "score": 0.91
   },
   {
     "path": "/java-coding-interview",
-    "score": 0.9
+    "score": 0.92
   },
   {
     "path": "/js-coding-interview",
-    "score": 0.92
-  },
-  {
-    "path": "/largest-sum-subarray",
-    "score": 0.89
-  },
-  {
-    "path": "/learn-a-new-programming-language-from-scratch",
-    "score": 0.91
-  },
-  {
-    "path": "/learn-python",
-    "score": 0.88
-  },
-  {
-    "path": "/learn-to-code",
-    "score": 0.65
-  },
-  {
-    "path": "/level-order-traversal-binary-tree",
-    "score": 0.94
-  },
-  {
-    "path": "/live-demo",
-    "score": 0.89
-  },
-  {
-    "path": "/make-columns-and-rows-zero",
-    "score": 0.92
-  },
-  {
-    "path": "/merge-overlapping-intervals",
-    "score": 0.91
-  },
-  {
-    "path": "/merge-two-sorted-linked-lists",
-    "score": 0.94
-  },
-  {
-    "path": "/minimum-spanning-tree",
-    "score": 0.91
-  },
-  {
-    "path": "/mirror-binary-tree-nodes",
-    "score": 0.95
-  },
-  {
-    "path": "/move-zeros-left",
-    "score": 0.93
-  },
-  {
-    "path": "/multithreading-and-concurrency",
-    "score": 0.91
-  },
-  {
-    "path": "/nexascale-educative-community-partnership",
-    "score": 0.95
-  },
-  {
-    "path": "/onboarding",
-    "score": 0.95
-  },
-  {
-    "path": "/oop",
-    "score": 0.93
-  },
-  {
-    "path": "/path/ace-the-api-for-entertainment-applications",
-    "score": 0.91
-  },
-  {
-    "path": "/path/bash-programming",
-    "score": 0.91
-  },
-  {
-    "path": "/path/become-a-vue-js-developer",
-    "score": 0.93
-  },
-  {
-    "path": "/path/become-an-aws-professional",
-    "score": 0.88
-  },
-  {
-    "path": "/path/zero-to-hero-in-ruby",
-    "score": 0.92
-  },
-  {
-    "path": "/permission",
-    "score": 0.94
-  },
-  {
-    "path": "/power-of-a-number",
-    "score": 0.93
-  },
-  {
-    "path": "/prepfortech",
-    "score": 0.96
-  },
-  {
-    "path": "/privacy",
-    "score": 0.99
-  },
-  {
-    "path": "/private-courses",
-    "score": 0.96
-  },
-  {
-    "path": "/python-coding-interview",
-    "score": 0.91
-  },
-  {
-    "path": "/recursion-interview",
-    "score": 0.89
-  },
-  {
-    "path": "/referral-program",
-    "score": 0.91
-  },
-  {
-    "path": "/regular-expression",
-    "score": 0.94
-  },
-  {
-    "path": "/reverse-words-in-a-sentence",
     "score": 0.9
   },
   {
-    "path": "/schedule-live-demo",
-    "score": 0.82
+    "path": "/largest-sum-subarray",
+    "score": 0.9
   },
   {
-    "path": "/search-matrix",
-    "score": 0.94
+    "path": "/learn-a-new-programming-language-from-scratch",
+    "score": 0.9
   },
   {
-    "path": "/search-rotated-array",
+    "path": "/learn-python",
     "score": 0.95
   },
   {
-    "path": "/serialize-deserialize-binary-tree",
-    "score": 0.91
+    "path": "/learn-to-code",
+    "score": 0.66
   },
   {
-    "path": "/string-segmentation",
-    "score": 0.93
-  },
-  {
-    "path": "/student-ambassador",
+    "path": "/level-order-traversal-binary-tree",
     "score": 0.96
   },
   {
-    "path": "/success",
-    "score": 0.88
+    "path": "/live-demo",
+    "score": 0.9
   },
   {
-    "path": "/sum-of-three-values",
-    "score": 0.92
-  },
-  {
-    "path": "/sum-of-two-values",
+    "path": "/make-columns-and-rows-zero",
     "score": 0.94
   },
   {
-    "path": "/tech-interview-prep-roadmap",
-    "score": 0.53
+    "path": "/merge-overlapping-intervals",
+    "score": 0.92
   },
   {
-    "path": "/technical-writing-workshop-nexascale-educative",
+    "path": "/merge-two-sorted-linked-lists",
     "score": 0.93
   },
   {
-    "path": "/terms",
-    "score": 0.99
+    "path": "/minimum-spanning-tree",
+    "score": 0.93
   },
   {
-    "path": "/upskill",
-    "score": 0.94
-  },
-  {
-    "path": "/webinar-giveaway-enterprise",
+    "path": "/mirror-binary-tree-nodes",
     "score": 0.92
   },
   {
+    "path": "/move-zeros-left",
+    "score": 0.95
+  },
+  {
+    "path": "/multithreading-and-concurrency",
+    "score": 0.92
+  },
+  {
+    "path": "/nexascale-educative-community-partnership",
+    "score": 0.97
+  },
+  {
+    "path": "/onboarding",
+    "score": 0.99
+  },
+  {
+    "path": "/oop",
+    "score": 0.94
+  },
+  {
+    "path": "/path/ace-the-api-for-social-media",
+    "score": 0.92
+  },
+  {
+    "path": "/path/fundamentals-web-programming",
+    "score": 0.94
+  },
+  {
+    "path": "/path/machine-learning-with-python-libraries",
+    "score": 0.9
+  },
+  {
+    "path": "/path/scalability-system-design",
+    "score": 0.89
+  },
+  {
+    "path": "/path/zero-to-hero-in-back-end-web-development",
+    "score": 0.93
+  },
+  {
+    "path": "/permission",
+    "score": 0.91
+  },
+  {
+    "path": "/power-of-a-number",
+    "score": 0.96
+  },
+  {
+    "path": "/prepfortech",
+    "score": 1
+  },
+  {
+    "path": "/privacy",
+    "score": 1
+  },
+  {
+    "path": "/private-courses",
+    "score": 0.98
+  },
+  {
+    "path": "/python-coding-interview",
+    "score": 0.92
+  },
+  {
+    "path": "/recursion-interview",
+    "score": 0.92
+  },
+  {
+    "path": "/referral-program",
+    "score": 0.93
+  },
+  {
+    "path": "/regular-expression",
+    "score": 0.91
+  },
+  {
+    "path": "/reverse-words-in-a-sentence",
+    "score": 0.96
+  },
+  {
+    "path": "/schedule-live-demo",
+    "score": 0.85
+  },
+  {
+    "path": "/search-matrix",
+    "score": 0.96
+  },
+  {
+    "path": "/search-rotated-array",
+    "score": 0.94
+  },
+  {
+    "path": "/serialize-deserialize-binary-tree",
+    "score": 0.94
+  },
+  {
+    "path": "/string-segmentation",
+    "score": 0.94
+  },
+  {
+    "path": "/student-ambassador",
+    "score": 0.95
+  },
+  {
+    "path": "/success",
+    "score": 0.95
+  },
+  {
+    "path": "/sum-of-three-values",
+    "score": 0.93
+  },
+  {
+    "path": "/sum-of-two-values",
+    "score": 0.95
+  },
+  {
+    "path": "/tech-interview-prep-roadmap",
+    "score": 0.57
+  },
+  {
+    "path": "/technical-writing-workshop-nexascale-educative",
+    "score": 0.97
+  },
+  {
+    "path": "/terms",
+    "score": 0.98
+  },
+  {
+    "path": "/upskill",
+    "score": 0.96
+  },
+  {
+    "path": "/webinar-giveaway-enterprise",
+    "score": 0.95
+  },
+  {
     "path": "/webinar-replay-getting-selected-for-the-interview",
-    "score": 0.7
+    "score": 0.65
   }
 ]
