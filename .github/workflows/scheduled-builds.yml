@@ -2,7 +2,7 @@ name: Trigger Site Rebuild on a CRON Schedule
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
   unlighthouse:
@@ -26,10 +26,13 @@ jobs:
       - name: Run Lighthouse CI
         run: npx unlighthouse-ci
 
-      - name: push code
-        run: |
-          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
-          git config --global user.email "sharjeelabbas014@gmail.com"
-          git add .
-          git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
-          git push
+      - name: Pushes to another repository
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-directory: ".unlighthouse"
+          destination-github-username: "sharjeelabbas014"
+          destination-repository-name: "unlighthouse-depl"
+          user-email: sharjeelabbas014@gmail.com
+          target-branch: main
