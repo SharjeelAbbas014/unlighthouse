@@ -1,9 +1,5 @@
 name: Trigger Site Rebuild on a CRON Schedule
 
-on:
-  schedule:
-    - cron: "0 0 * * WED"
-
 jobs:
   unlighthouse:
     name: Run unlighthouse
